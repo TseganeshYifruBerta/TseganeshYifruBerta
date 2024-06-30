@@ -2,8 +2,6 @@
 
 ### Software Engineer / Full Stack Developer
 
-![Profile Image](https://drive.google.com/uc?export=view&id=1VhIStRZu1IVzr_6gD6Mk7uAKkeF0ndRi)
-
 📧 [t5691yifru@gmail.com](mailto:t5691yifru@gmail.com)  
 📞 +251960075002  
 🌍 Addis Ababa, Ethiopia  
