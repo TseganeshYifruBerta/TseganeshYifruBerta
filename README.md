@@ -2,12 +2,12 @@
 
 ### Software Engineer / Full Stack Developer
 
-![Profile Image](profile_picture_url)
+![Profile Image](https://drive.google.com/file/d/1VhIStRZu1IVzr_6gD6Mk7uAKkeF0ndRi/view?usp=sharing)
 
 📧 [t5691yifru@gmail.com](mailto:t5691yifru@gmail.com)  
 📞 +251960075002  
 🌍 Addis Ababa, Ethiopia  
-🔗 [LinkedIn](your_linkedin_url) | [GitHub](your_github_url)
+🔗 [LinkedIn](https://www.linkedin.com/in/tseganeshyifruberta0308/) | [GitHub](https://github.com/TseganeshYifruBerta/)
 
 ---
 
