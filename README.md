@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Tseganesh Yifru
 
 ### Software Engineer / Full Stack Developer
+(https://drive.google.com/file/d/1VhIStRZu1IVzr_6gD6Mk7uAKkeF0ndRi/view?usp=sharing)
 
 ![Profile Image](https://drive.google.com/file/d/1VhIStRZu1IVzr_6gD6Mk7uAKkeF0ndRi/view?usp=sharing)
 
